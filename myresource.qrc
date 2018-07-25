@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>3.jpg</file>
+        <file>snakebackground.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>12.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>snake.wav</file>
+    </qresource>
+</RCC>
